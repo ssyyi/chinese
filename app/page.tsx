@@ -259,8 +259,8 @@ export default function Home() {
                     </div>
                   </div>
                 ) : (
-                  // 多字网格显示
-                  <div className="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-16 ">
+                  // 多字 flex 布局，自动居中
+                  <div className="flex flex-wrap justify-center gap-6 md:gap-16">
                     {selectedChars.map((char, index) => (
                       <div
                         key={`${char}-${index}`}
