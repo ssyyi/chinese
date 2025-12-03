@@ -2,6 +2,11 @@
   "name": "hanzi",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "ssy",
+    "email": "atme@atme.at",
+    "wechat": "xiangguruchu"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
