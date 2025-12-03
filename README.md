@@ -1,5 +1,9 @@
 # 汉字书写练习 - Chinese Character Writing Practice
 
+
+在线地址：[https://chinese-rosy.vercel.app/](https://chinese-rosy.vercel.app/)
+
+
 一个现代化、交互式的汉字书写练习应用，使用 Next.js 和 hanzi-writer 构建。
 
 ## ✨ 功能特性
